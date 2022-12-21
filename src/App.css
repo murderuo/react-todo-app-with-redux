@@ -1,0 +1,21 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-with {
+  width: 100%;
+}
+
+.error {
+  color: red;
+  font-weight: 600;
+  text-align: center;
+}
+
+.done {
+  text-decoration: line-through;
+}
